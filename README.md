@@ -1,7 +1,7 @@
 Yoo there, welcome to my Github profile!👋
 My name is Enzo and my nickname is "Oxysport"!
 
-![Snake animation](https://github.com/Oxysport/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Oxysport/Oxysport/blob/output/github-contribution-grid-snake.svg)
 
           
 - 🌱 I’m currently learning JavaScript in Alura!
